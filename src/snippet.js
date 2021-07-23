@@ -20,3 +20,5 @@ end_group.getElementsByClassName("form-control")[2].value = "30";
 document.getElementsByClassName("form-control")[9].value = contest_participants;
 
 Bacha_Gacha = document.getElementsByClassName("row")[1];
+
+document.querySelector("[aria-label='Exclude experimental difficulty']").checked = true;
