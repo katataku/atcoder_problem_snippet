@@ -22,3 +22,13 @@ document.getElementsByClassName("form-control")[9].value = contest_participants;
 Bacha_Gacha = document.getElementsByClassName("row")[1];
 
 document.querySelector("[aria-label='Exclude experimental difficulty']").checked = true;
+
+document.getElementsByClassName("form-control")[9].value = contest_participants;
+
+document.querySelector("[aria-label='Exclude experimental difficulty']").checked = true;
+
+document.querySelector("[aria-label='Close']").click();
+document.querySelector("[aria-label='Close']").click();
+
+
+//document.getElementsByClassName("btn btn-success")[0].click();
