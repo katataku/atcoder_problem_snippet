@@ -1,0 +1,2 @@
+# atcoder_problem_snippet
+atcoder_problem_snippet for asakatsu
